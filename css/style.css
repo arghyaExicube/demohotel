@@ -143,12 +143,12 @@ div#bs-example-navbar-collapse-1 {
 .banner-section {
     position: relative;
 }
-.banner-text {
+.container1 {
     position: absolute;
     top: 40%;
-    background: rgba(144, 143, 143, 0.52);
+    background: rgba(144, 143, 143, 0.1);
     padding: 2em 0;
-    width: 7%;
+    width: 40%;
     text-align: center;
     margin: 0 auto;
 }
